@@ -1,0 +1,3 @@
+* logseq
+
+my brain dump
